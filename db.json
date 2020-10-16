@@ -1,0 +1,22 @@
+"response":{
+   "games":[
+      {
+         "game_id":1,
+         "firstTeam":"Manchester United",
+         "secondTeam":"Chelsea",
+         "firstTeamCoef":1.33,
+         "secondTeamCoef":6.77,
+         "drawCoef":4.21,
+         "startingTime":"22:00"
+      },
+      {
+         "game_id":1,
+         "firstTeam":"Manchester United",
+         "secondTeam":"Chelsea",
+         "firstTeamCoef":1.33,
+         "secondTeamCoef":6.77,
+         "drawCoef":4.21,
+         "startingTime":"22:00"
+      }
+   ]
+}
