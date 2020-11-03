@@ -1,7 +1,7 @@
 {
    "games":[
       {
-         "game_id":5,
+         "game_id":1,
          "firstTeam":"Manchester United",
          "secondTeam":"Chelsea",
          "firstTeamCoef":1.33,
@@ -13,6 +13,24 @@
          "game_id":2,
          "firstTeam":"Everton",
          "secondTeam":"Liverpool",
+         "firstTeamCoef":4.51,
+         "secondTeamCoef":2.77,
+         "drawCoef":6.21,
+         "startingTime":"20:00"
+      },
+      {
+         "game_id":3,
+         "firstTeam":"Leiceister city",
+         "secondTeam":"Benkovski BG Slivovo",
+         "firstTeamCoef":4.51,
+         "secondTeamCoef":2.77,
+         "drawCoef":6.21,
+         "startingTime":"20:00"
+      },
+            {
+         "game_id":4,
+         "firstTeam":"Ludogorets",
+         "secondTeam":"CSKA Sofia",
          "firstTeamCoef":4.51,
          "secondTeamCoef":2.77,
          "drawCoef":6.21,
